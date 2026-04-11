@@ -6,7 +6,7 @@ I'm a retired mechanical engineer who's discovered a passion for coding and app 
 
 **Currently working on:** [TrendFit](https://github.com/CuWilliams/TrendFitApp.github.io) - A fitness tracking app that analyzes workout trends from Apple Health data
 
-**Currently learning:** Swift, HTML, CSS, and JS
+**Currently learning:** Swift, SwiftUI, Python, HTML, CSS, and JS
 
 **Other interests:** Music, 3D printing, and AI
 
@@ -18,15 +18,21 @@ A fitness tracking app for iOS that helps users understand their workout pattern
 - Available on the App Store
 - [Visit Website](https://github.com/CuWilliams/TrendFitApp.github.io)
 
+### GFPriceChecker
+An iOS app that helps people with celiac disease track the price differential between gluten-free and regular products for Canadian tax deductions
+- Built with Swift and SwiftUI
+- Features OCR-assisted price capture, receipt verification, and CRA-compliant CSV/PDF exports
+- [View Project](https://github.com/CuWilliams/GFPriceChecker)
+
+### Lyric Video Generator (LV-Gen)
+A macOS desktop app for creating timed lyric videos with text animations, themes, and a visual timeline editor
+- Built with Python
+- [View Project](https://github.com/CuWilliams/lyric-video-generator)
+
 ### the dURT nURS'
 Band website project showcasing my (AI assisted) web development skills (and complete lack of musical talent)
-- Built with HTML/CSS
+- Built with Eleventy, JavaScript, HTML, and CSS
 - [View Project](https://github.com/CuWilliams/durtnurs.github.io)
-
-### JargoNaut
-A browser extension that explains tech jargon using local AI
-- Built with JavaScript
-- [View Project](https://github.com/CuWilliams/jargonaut)
 
 ## Connect With Me
 
